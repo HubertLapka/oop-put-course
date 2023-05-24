@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1684843250 source:c:\users\user\desktop\projekty code\programowanie obiektowe\projekt zaliczeniowy\figure.cpp
+	"figure.h"
+
+1684846780 c:\users\user\desktop\projekty code\programowanie obiektowe\projekt zaliczeniowy\figure.h
+
+1684849058 source:c:\users\user\desktop\projekty code\programowanie obiektowe\projekt zaliczeniowy\square.cpp
+	"square.h"
+	<iostream>
+
+1684849026 c:\users\user\desktop\projekty code\programowanie obiektowe\projekt zaliczeniowy\square.h
+	"figure.h"
+
+1684868518 source:c:\users\user\desktop\projekty code\programowanie obiektowe\projekt zaliczeniowy\main.cpp
+	<iostream>
+	"figure.h"
+	"square.h"
+	"rectangle.h"
+	"triangle.h"
+	"circle.h"
+	"rhombus.h"
+	"parallelogram.h"
+	"trapezoid.h"
+
+1684846780 c:\users\user\desktop\projekty code\programowanie obiektowe\projekt zaliczeniowy\rectangle.h
+	"figure.h"
+
+1684847618 c:\users\user\desktop\projekty code\programowanie obiektowe\projekt zaliczeniowy\triangle.h
+	"figure.h"
+
+1684847618 source:c:\users\user\desktop\projekty code\programowanie obiektowe\projekt zaliczeniowy\rectangle.cpp
+	"rectangle.h"
+	<iostream>
+
+1684848355 c:\users\user\desktop\projekty code\programowanie obiektowe\projekt zaliczeniowy\circle.h
+	"figure.h"
+
+1684867217 source:c:\users\user\desktop\projekty code\programowanie obiektowe\projekt zaliczeniowy\triangle.cpp
+	"triangle.h"
+	<iostream>
+	<math.h>
+
+1684848769 source:c:\users\user\desktop\projekty code\programowanie obiektowe\projekt zaliczeniowy\circle.cpp
+	"circle.h"
+	<iostream>
+
+1684849938 c:\users\user\desktop\projekty code\programowanie obiektowe\projekt zaliczeniowy\rhombus.h
+	"figure.h"
+
+1684849982 source:c:\users\user\desktop\projekty code\programowanie obiektowe\projekt zaliczeniowy\rhombus.cpp
+	"rhombus.h"
+	<iostream>
+	<math.h>
+
+1684867790 c:\users\user\desktop\projekty code\programowanie obiektowe\projekt zaliczeniowy\parallelogram.h
+	"figure.h"
+
+1684867824 source:c:\users\user\desktop\projekty code\programowanie obiektowe\projekt zaliczeniowy\parallelogram.cpp
+	"parallelogram.h"
+	<iostream>
+	<math.h>
+
+1684868518 c:\users\user\desktop\projekty code\programowanie obiektowe\projekt zaliczeniowy\trapezoid.h
+	"figure.h"
+
+1684868518 source:c:\users\user\desktop\projekty code\programowanie obiektowe\projekt zaliczeniowy\trapezoid.cpp
+	"trapezoid.h"
+	<iostream>
+	<math.h>
+
