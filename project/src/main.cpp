@@ -91,7 +91,15 @@ int main()
                 cout << "enter the base and two side lenght" << endl;
                 cin >> s1 >> s2 >> s3;
                 Triangle elem(s1, s2, s3);
-                 elem.show_dimensions();
+                try
+                    {
+                        elem.show_dimensions();
+                    }
+                catch(std::invalid_argument e)
+                {
+                    std::cout << "Fault: "<< e.what();
+                }
+
                       for(int x = 0; x < 2; x++)
                  {
                  cout << "0 - end the program" << endl;
@@ -229,3 +237,4 @@ int main()
 
     return 0;
 }
+
